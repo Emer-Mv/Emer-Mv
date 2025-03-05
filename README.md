@@ -40,7 +40,7 @@
 
 <h2>📫 Onde me encontrar:</h2>
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/emerson-vaz-926070185" target="_blank">
+  <a href="https://linkedin.com/in/" target="[_blank](https://www.linkedin.com/in/emerson-vaz-926070185)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/SEU_GITHUB" target="_blank">
